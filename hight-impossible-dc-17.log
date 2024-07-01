@@ -1,0 +1,870 @@
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:04
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.58 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:10
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.47 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:15
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.50 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:21
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.60 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:27
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.47 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:32
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.11s
+
+Explored 0 nodes (0 simplex iterations) in 5.49 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:38
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.22s
+
+Explored 0 nodes (0 simplex iterations) in 5.79 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:44
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.47 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:49
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.64 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:56:55
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.48 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:01
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.47 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:06
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.63 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:12
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.43 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:18
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.43 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:23
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.63 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:29
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.51 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:35
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.12s
+
+Explored 0 nodes (0 simplex iterations) in 5.53 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:40
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.49 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:46
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.32 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:51
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.54 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:57:57
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.38 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:03
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.54 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:08
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.75 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:14
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.15s
+
+Explored 0 nodes (0 simplex iterations) in 5.59 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:20
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.12s
+
+Explored 0 nodes (0 simplex iterations) in 5.65 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:26
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.16s
+
+Explored 0 nodes (0 simplex iterations) in 5.73 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:32
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.59 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 20:58:37
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:01
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.16 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:06
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.37 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:12
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.43 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:18
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.23 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:23
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.12s
+
+Explored 0 nodes (0 simplex iterations) in 5.36 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:28
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.34 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:34
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.24 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:39
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.46 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:02:45
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 220 rows, 120 columns and 682 nonzeros
+Variable types: 0 continuous, 120 integer (120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 112 rows and 36 columns
+Presolve time: 0.14s
+
+Explored 0 nodes (0 simplex iterations) in 5.25 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:05:13
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 112 rows, 68 columns and 358 nonzeros
+Variable types: 0 continuous, 68 integer (68 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:05:13
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 112 rows, 68 columns and 358 nonzeros
+Variable types: 0 continuous, 68 integer (68 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.0 (win64) logging started 01/19/19 21:05:13
+
+Changed value of parameter LogFile to hight-impossible-dc-17.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 112 rows, 68 columns and 358 nonzeros
+Variable types: 0 continuous, 68 integer (68 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 9 rows and 5 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -

@@ -1,0 +1,25 @@
+['VERSION', 'ROMMON', 'HOSTNAME', 'UPTIME', 'RUNNING_IMAGE', 'HARDWARE', 'SERIAL', 'CONFIG_REGISTER']
+
+['12.2(55)SE7', 'Bootstrap', 'Revo-Solusindo-01', '1 hour, 27 minutes', 'c2960s-universalk9-mz.122-55.SE7.bin', ['WS-C2960S-24PD-L'], ['FOC1644Z129'], '0xF'] Write 1 records
+
+['FAN', 'TEMPERATURE', 'TEMPERATURE_VALUE', 'TEMPERATURE_STATE', 'YELLOW_THRESHOLD', 'RED_THRESHOLD', 'POWER', 'RPS']
+
+['OK', 'OK', '33', 'GREEN', '54', '64', '', ''] Write 1 records
+
+['TOTAL', 'FFREE']
+
+['57931776', '29178368']
+
+['524288', '523212'] Write 2 records
+
+['MEMTYPE', 'HEAD', 'TOTAL', 'USED', 'FREE', 'LOW', 'LARGE']
+
+['Processor', '2BA9598', '73910760', '26908308', '47002452', '45367928', '30211716']
+
+[' I/O', '6200000', '14680064', '12406764', '2273300', '2273300', '2273024']
+
+['Driver te', '1A00000', '1048576', '44', '1048532', '1048532', '1048532'] Write 3 records
+
+['CPU_5_SEC', 'CPU_1_MIN', 'CPU_5_MIN']
+
+['10', '10', '9'] Write 1 records
